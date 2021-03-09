@@ -1,0 +1,7 @@
+SELECT * FROM test120 WHERE id = 1;
+SELECT * FROM test121 WHERE id = 1;
+SELECT * FROM test122 WHERE id = 1;
+SELECT * FROM test123 WHERE id = 1;
+SELECT * FROM test124 WHERE id = 1;
+
+
